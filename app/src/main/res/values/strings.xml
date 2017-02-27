@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SantoDomingoLive</string>
+    <string name="titulo">Santo Domingo</string>
+    <string name="username">Nombre</string>
+    <string name="password">Contraseña</string>
+    <string name="Iniciarsec">Iniciar Seccion</string>
+    <string name="registro">Registrarse</string>
+    <string name="Registrarse">Enviar</string>
+    <string name="password2">Confirmar contraseña</string>
+    <string name="email">e-mail</string>
+    <string name="Enviar">Enviar</string>
+    <string name="Cancelar">Cancelar</string>
+</resources>
